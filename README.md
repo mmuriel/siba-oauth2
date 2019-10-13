@@ -19,8 +19,8 @@ Esta aplicación tiene como objetivo, servir de servidor de autenticación y aut
 
 Todos estos componentes ya están disponibles en los siguientes containers de docker:
 
-maomuriel/siba-auth:1.0.0
-mysql:5.5
++ maomuriel/siba-auth:1.0.0
++ mysql:5.5
 
 ## 3. Software de aplicación: El software de aplicación utilizado para este producto de software, está basado en el framework Laravel Framework 5.8.35, con complemento de los paquetes:
 
